@@ -1,0 +1,121 @@
+/* Add your styles here */
+.body{
+  background-color: #6FB98F;
+  color: white;
+  font-size:larger;
+  margin: 30px
+}
+
+.photo{
+  width: 350px;
+}
+.photo1{
+  width: 350px;
+  margin-left: 150px;
+  margin-top: 30px;
+}
+#row1{
+  background-color: #021C1E;
+}
+#row2{
+  background-color: #004445;
+  color:lightgray;
+}
+#row3{
+  background-color: #2C7873;
+  color: black;
+}
+
+#facebook{
+  background-color: #3B5998;
+  height: 50px;
+}
+.fa-facebook {
+  color: white;
+  padding-left: 40px;
+  margin-top: 15px;
+}
+
+#instagram{
+  background-color:#C13584;
+  height: 50px;
+}
+
+.fa-instagram{
+  color: white;
+  padding-left: 40px;
+  margin-top: 15px;
+}
+
+#twitter{
+  background-color:#55ACEE;
+  height: 50px;
+}
+
+.fa-twitter{
+  color: white;
+  padding-left: 40px;
+  margin-top: 15px;
+}
+
+#youtube{
+  background-color:#bb0000;
+  height: 50px;
+}
+
+.fa-youtube{
+  color: white;
+  padding-left: 40px;
+  margin-top: 15px;
+}
+
+#spotify{
+  background-color:black;
+  height: 50px;
+}
+
+.fa-spotify{
+  color: #81b71a;
+  padding-left: 40px;
+  margin-top: 15px;
+}
+
+#reddit{
+  background-color:#ff5700;
+  height: 50px;
+}
+
+.fa-reddit{
+  color: white;
+  padding-left: 40px;
+  margin-top: 15px;
+}
+
+#canciones{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin-top: 30px;
+}
+
+#integrantes{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#imaginedragons{
+  color: black;
+}
+
+p{
+  text-align:justify;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+#fechas{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+
+
+
+
